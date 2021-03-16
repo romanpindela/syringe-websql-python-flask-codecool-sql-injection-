@@ -1,0 +1,6 @@
+Kamil Grondys14:06
+super :)');
+insert into comment(name, text) select 'sqlinjection', pg_catalog.pg_tables.tablename from pg_catalog.pg_tables limit 1;--
+Kamil Grondys14:09
+super :)');
+insert into comment(name, text) values('sqlinj2', 'tez super');--
